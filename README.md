@@ -20,7 +20,7 @@ distfidf.py,alldistfidf.py是加入离散度的算法，没成功
 
 
 
-tfidf.py:
+tfidf.py:Original tfidf algorithm program
 
 ngramtfidf.py:Tfidf algorithm with only sliding window and no word segmentation
 
